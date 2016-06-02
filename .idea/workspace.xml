@@ -1,88 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c9435b5-adec-42e5-9d99-a5df646a8632" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fon1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fon2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fon3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/concerts/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/concerts/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/concerts/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/concerts/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/concerts/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/concerts/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/home/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/home/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/home/3-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/home/3-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/home/3-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/home/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/home/4-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/home/4-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/home/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/IMG_1401111.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/IMG_1439.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat18.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/nat9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/nature/Изображение 077.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/2-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/2-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/2-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/portraits.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/people/Фото для рекламы мягких медведей.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/urban/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/urban/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/urban/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/urban/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/urban/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/urban/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/urban/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/photo/urban/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/online-store-of-children-s-goods.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasePage.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.less" />
-    </list>
+    <list default="true" id="8c9435b5-adec-42e5-9d99-a5df646a8632" name="Default" comment="" />
     <ignored path="online-store-of-children-s-goods.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -103,10 +22,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BasePage.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BasePage.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BasePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-702">
+            <state relative-caret-position="234">
               <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding>
                 <element signature="n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -115,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+            <state relative-caret-position="52">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -298,12 +217,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1464893472280</updated>
-      <workItem from="1464893475858" duration="1441000" />
+      <workItem from="1464893475858" duration="2067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1441000" />
+    <option name="totallyTimeSpent" value="2067000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -384,21 +303,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BasePage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702">
+        <state relative-caret-position="234">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding>
             <element signature="n#ul#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
